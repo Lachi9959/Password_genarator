@@ -1,0 +1,3 @@
+password-generator/
+├── README.md                 # Project documentation
+├── password_generator.py     # Python script to generate passwords
